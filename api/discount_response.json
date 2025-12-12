@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Year-End Clearance",
+        "discount_percent": 80.0,
+        "start_date": "2025-12-26",
+        "end_date": "2025-12-31"
+    },
+    {
+        "name": "Season's End Blowout",
+        "discount_percent": 75.0,
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-10"
+    },
+    {
+        "name": "End of Season Clearance",
+        "discount_percent": 70.0,
+        "start_date": "2025-09-01",
+        "end_date": "2025-09-15"
+    }
+    ]
